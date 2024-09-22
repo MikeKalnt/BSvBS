@@ -24,8 +24,8 @@ M. Kalntis and G. Iosifidis, "Energy-Aware Scheduling of Virtualized Base Statio
 ```
 
 ## Requirements
-This project has been developed and tested in Python 3.8.10 and requires the following libraries:
-
+This project requires the following:
+- Python 
 - NumPy
 - Matplotlib
 - Itertools
