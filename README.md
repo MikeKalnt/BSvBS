@@ -29,7 +29,3 @@ This project has been developed and tested in Python 3.8.10 and requires the fol
 - NumPy
 - Matplotlib
 - Itertools
-
-
-## Licence 
-Distributed under the MIT License. See [LICENCE](https://github.com/MikeKalnt/BSvBS/blob/main/LICENSE) for more information.
